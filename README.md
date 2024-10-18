@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@sanzinanafrose](https://medium.com/@sanzinanafrose)
 
-- 💬 Ask me about **C,Java,Python,PHP,HMTL,CSS,Web Automation,Software Testing**
+- 💬 Ask me about **C, Java, Python, PHP, HTML, CSS, Web Automation, Software Testing**
 
 - 📫 How to reach me **sanzinanafrose@gmail.com**
 
